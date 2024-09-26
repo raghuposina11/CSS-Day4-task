@@ -1,0 +1,13 @@
+th:nth-child(even){
+    background-color:black;
+}
+td:nth-child(odd){
+    background-color: black;
+}
+th:hover{
+    background-color: aqua;
+}
+td:hover{
+    background-color: aquamarine;
+
+}
